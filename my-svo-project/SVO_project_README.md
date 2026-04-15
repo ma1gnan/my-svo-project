@@ -86,11 +86,3 @@ Development tips
 
 - Keep the parser and AST simple and well-typed to make teaching easier.
 - Use the tests in `tests/test_kb.py` as a regression suite when adding new features.
-
-License
-
-Choose a license appropriate for your project (MIT is a common permissive choice).
-
-Contact / support
-
-If you want me to generate additional project files (packaging, setup.py/pyproject.toml, more tests, CI config, or a web demo), tell me which file(s) to produce next and I will generate them.
